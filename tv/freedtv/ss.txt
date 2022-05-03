@@ -1,0 +1,44 @@
+🔞松视-1,rtmp://125.227.196.250:1935/live/PineVision1
+🔞松视-1,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
+🔞松视-2,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+🔞松视-2,rtmp://125.227.196.250:1935/live/PineVision2
+🔞松视-3,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+🔞松视-3rtmp://125.227.196.250:1935/live/PineVision3
+🔞松视-4,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
+🔞潘多拉玩美,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+🔞香蕉测试,https://fbk.vstudy.net.cn/hls/20211129/fd26b4bc7ccb49dcef75a052d8322811/index.m3u8
+🔞Happy,rtmp://125.227.196.250:1935/live/HAPPY
+🔞彩虹台,rtmp://125.227.196.250:1935/live/Rainbowmovie
+🔞惊艳台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
+🔞K频道,rtmp://125.227.196.250:1935/live/Kchannel
+🔞dorcel club,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6197/index.m3u8
+🔞hustler,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9065/index.m3u8
+🔞dorcel tv,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9067/index.m3u8
+🔞olala,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9068/index.m3u8
+🔞tiny4k,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6258/index.m3u8
+🔞bangbros,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6235/index.m3u8
+🔞Asian,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6230/index.m3u8
+🔞japan,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6225/index.m3u8
+🔞cum4k,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6190/index.m3u8
+🔞babes,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6171/index.m3u8
+🔞hardx,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6218/index.m3u8
+🔞vivid,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6264/index.m3u8
+🔞dorcel,http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20396
+🔞丝袜台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6237/index.m3u8
+🔞黑人台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6178/index.m3u8
+🔞🔞车ZHIN台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6202/index.m3u8
+🔞LEO,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+🔞Jasmin,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+🔞A3BIKINI TV,http://bestavb.top:8008/live/Daia_Florin/1Unlimited19/34480.m3u8
+松视1_p5p,p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
+松视2_p5p,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
+K频道_p5p,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
+LOOK_p5p,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+HAPPY_p5p,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+惊艳台_p5p,p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
+潘朵拉完美_p5p,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
+潘朵拉粉红_p5p,p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
+HOT_p5p,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+香蕉台_p5p,p5p://192.240.110.203:16666/60ab2769000e40550e61abfe014de5b1.ts
+彩虹E_p5p,p5p://192.240.110.203:16666/60ab271b0008823b0e6079d6366a0d7e.ts
+极限电影_p5p,p5p://192.240.110.203:16666/60ab2789000ebe270e62291ec8b20e2d.ts
